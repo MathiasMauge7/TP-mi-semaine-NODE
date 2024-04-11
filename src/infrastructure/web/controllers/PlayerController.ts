@@ -2,7 +2,7 @@ import { Request, Response } from "express";
 import { PlayerService } from "../../../domain/services/PlayerService";
 import { response } from "../../../utils/response";
 
-const playerService= new PlayerService
+const playerService = new PlayerService()
 
 export const getAllPlayers = (req: Request, res: Response) => {
     const players = playerService.getAllPlayers()

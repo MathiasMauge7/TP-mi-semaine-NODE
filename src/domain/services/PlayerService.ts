@@ -5,7 +5,7 @@ export class PlayerService {
     private playersRepository: PlayerRepository;
 
     constructor() {
-        this.playersRepository = new PlayerRepository
+        this.playersRepository = new PlayerRepository()
     }
 
     getAllPlayers(): Player[] {
