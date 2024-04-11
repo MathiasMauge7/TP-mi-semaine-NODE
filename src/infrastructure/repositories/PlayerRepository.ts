@@ -23,8 +23,18 @@ export class PlayerRepository {
         return pseudos.filter(pseudo => pseudo.pseudo === playerPseudo)
     }
 
-    getPlayersByGame(game: string): Player[] {
-        const players = this.getAllPlayers()
-        return players.filter(player => player.game === game)
+    getPlayersByGame(gameName: string): Player[] {
+    const players = this.getAllPlayers();
+    const playersWithGame: Player[] = [];
+
+    for (const player of players) {
+        for (const game of player.details) {
+            if (game.name === gameName) {
+                playersWithGame.push(player);
+                break; // Sortez de la boucle interne une fois qu'un jeu correspondant est trouvé
+            }
+        }
     }
+    return playersWithGame;
+}
 }
