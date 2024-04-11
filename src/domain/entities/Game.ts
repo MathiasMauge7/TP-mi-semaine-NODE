@@ -1,7 +1,7 @@
-import { Player } from './Player'
+import { Player } from "./Player";
 
 export interface Game {
-    id?: string;
-    name: string;
-    rang: string
+  id?: string;
+  name: string;
+  rank: string;
 }

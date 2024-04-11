@@ -1,30 +1,35 @@
 import path from "path";
-import fs from "fs"
+import fs from "fs";
 import { Player } from "../../domain/entities/Player";
+import { Game } from "../../domain/entities/Game";
 
 export class PlayerRepository {
-    private players: Player[] = [];
-    private filePath = path.join(__dirname, '..', 'data', 'players.json')
+  private players: Player[] = [];
+  private filePath = path.join(__dirname, "..", "data", "players.json");
 
-    constructor() {
-    }
+  constructor() {}
 
-    getAllPlayers(): Player[] {
-        const data = fs.readFileSync(this.filePath, 'utf-8')
-        const players = JSON.parse(data)
-        
-        return players.map((player: Player) => {
-            if (player.id) return player
-        })
-    }
+  getAllPlayers(): Player[] {
+    const data = fs.readFileSync(this.filePath, "utf-8");
+    const players = JSON.parse(data);
 
-    getPlayerByPseudo(playerPseudo: string): Player[] {
-        const pseudos = this.getAllPlayers()
-        return pseudos.filter(pseudo => pseudo.pseudo === playerPseudo)
-    }
+    return players.map((player: Player) => {
+      if (player.id) return player;
+    });
+  }
 
-    getPlayersByGame(game: string): Player[] {
-        const players = this.getAllPlayers()
-        return players.filter(player => player.game === game)
-    }
+  getPlayerByPseudo(playerPseudo: string): Player[] {
+    const pseudos = this.getAllPlayers();
+    return pseudos.filter((pseudo) => pseudo.pseudo === playerPseudo);
+  }
+
+  getPlayersByGame(game: string): Player[] {
+    const players = this.getAllPlayers();
+    return players.filter((player) => player.game === game);
+  }
+
+  getPlayersByRank(rank: string): Player[Game] {
+    const players = this.getAllPlayers();
+    return players.filter((player) => player.rank === rank);
+  }
 }
