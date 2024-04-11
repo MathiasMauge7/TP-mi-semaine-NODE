@@ -22,14 +22,4 @@ export class PlayerRepository {
     const pseudos = this.getAllPlayers();
     return pseudos.filter((pseudo) => pseudo.pseudo === playerPseudo);
   }
-
-  getPlayersByGame(game: string): Player[] {
-    const players = this.getAllPlayers();
-    return players.filter((player) => player.game === game);
-  }
-
-  getPlayersByRank(rank: string): Player[Game] {
-    const players = this.getAllPlayers();
-    return players.filter((player) => player.rank === rank);
-  }
 }
