@@ -11,4 +11,12 @@ export class PlayerService {
     getAllPlayers(): Player[] {
         return this.playersRepository.getAllPlayers()
     }
+
+    getPlayerByPseudo(pseudo: string): Player | undefined {
+        return this.playersRepository.getPlayerByPseudo(pseudo);
+    }
+
+    getPlayersByGame(game: string): Player[] | undefined {
+        return this.playersRepository.getPlayersByGame(game)
+    }
 }
