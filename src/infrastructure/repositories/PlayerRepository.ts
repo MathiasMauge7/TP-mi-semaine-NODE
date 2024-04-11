@@ -1,7 +1,6 @@
 import path from "path";
 import fs from "fs"
 import { Player } from "../../domain/entities/Player";
-import { Game } from "../../domain/entities/Game";
 
 export class PlayerRepository {
     private players: Player[] = [];
@@ -19,11 +18,9 @@ export class PlayerRepository {
         })
     }
 
-    getPlayerByPseudo(playerPseudo: string): Player | undefined {
+    getPlayerByPseudo(playerPseudo: string): Player[] {
         const pseudos = this.getAllPlayers()
-        let result: any = []
-        pseudos.find(pseudo => pseudo.pseudo === playerPseudo)
-        return result
+        return pseudos.filter(pseudo => pseudo.pseudo === playerPseudo)
     }
 
     getPlayersByGame(game: string): Player[] {

@@ -12,7 +12,8 @@ export class PlayerService {
         return this.playersRepository.getAllPlayers()
     }
 
-    getPlayerByPseudo(pseudo: string): Player | undefined {
+    // QUESTION !!!
+    getPlayerByPseudo(pseudo: string): Player[] | undefined {
         return this.playersRepository.getPlayerByPseudo(pseudo);
     }
 
