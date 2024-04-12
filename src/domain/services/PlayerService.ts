@@ -1,23 +1,31 @@
 import { Player } from "../entities/Player";
 import { PlayerRepository } from "../../infrastructure/repositories/PlayerRepository";
+import { Rank } from "../entities/Rank";
 
 export class PlayerService {
-    private playersRepository: PlayerRepository;
+  private playersRepository: PlayerRepository;
 
-    constructor() {
-        this.playersRepository = new PlayerRepository()
-    }
+  constructor() {
+    this.playersRepository = new PlayerRepository();
+  }
 
-    getAllPlayers(): Player[] {
-        return this.playersRepository.getAllPlayers()
-    }
+  getAllPlayers(): Player[] {
+    return this.playersRepository.getAllPlayers();
+  }
 
-    // QUESTION !!!
-    getPlayerByPseudo(pseudo: string): Player[] | undefined {
-        return this.playersRepository.getPlayerByPseudo(pseudo);
-    }
+  getPlayerByPseudo(pseudo: string): Player[] | undefined {
+    return this.playersRepository.getPlayerByPseudo(pseudo);
+  }
 
-    getPlayersByGame(game: string): Player[] | undefined {
-        return this.playersRepository.getPlayersByGame(game)
-    }
+  getPlayerByGame(game: string): Player[] | undefined {
+    return this.playersRepository.getPlayerByGame(game);
+  }
+
+  getAllRanks(): Rank[] {
+    return this.playersRepository.getAllRanks();
+  }
+
+  createPlayer(player: Player) {
+    return this.playersRepository.createPlayer(player);
+  }
 }

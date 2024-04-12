@@ -1,4 +1,5 @@
 export interface EnvConfig {
-    PORT: number,
-    NODE_ENV: 'development' | 'production' | 'test'
+  PORT: number;
+  JWT_SECRET: string;
+  NODE_ENV: "development" | "production" | "test";
 }

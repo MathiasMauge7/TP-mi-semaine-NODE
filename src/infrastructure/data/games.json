@@ -1,0 +1,124 @@
+[
+  {
+    "id": "efb29504-c951-4a12-83d4-355caf00e40f",
+    "name": "Fortnite",
+    "ranks": [
+      {
+        "bronze": "c2557c4b-6545-453d-876f-7ce8ec65f674",
+        "silver": "32ec41c8-8452-43c5-aefe-44174e95abdd",
+        "gold": "a186f917-e0b7-407b-a44e-59050afe5ee6",
+        "platinum": "639107f5-2737-4c2c-83f5-c25c89e19047",
+        "diamond": "fb352537-62bc-453f-a2f9-b1ac82a0434b"
+      }
+    ]
+  },
+  {
+    "id": "62b9a8f0-e6a6-46d3-b413-1eda9ee2c7c6",
+    "name": "Call of Duty: Warzone",
+    "ranks": [
+      {
+        "bronze": "c2557c4b-6545-453d-876f-7ce8ec65f674",
+        "silver": "32ec41c8-8452-43c5-aefe-44174e95abdd",
+        "gold": "a186f917-e0b7-407b-a44e-59050afe5ee6",
+        "platinum": "639107f5-2737-4c2c-83f5-c25c89e19047",
+        "diamond": "fb352537-62bc-453f-a2f9-b1ac82a0434b"
+      }
+    ]
+  },
+  {
+    "id": "147608ba-c850-4a99-9135-0d5d7b112366",
+    "name": "Apex Legends",
+    "ranks": [
+      {
+        "bronze": "c2557c4b-6545-453d-876f-7ce8ec65f674",
+        "silver": "32ec41c8-8452-43c5-aefe-44174e95abdd",
+        "gold": "a186f917-e0b7-407b-a44e-59050afe5ee6",
+        "platinum": "639107f5-2737-4c2c-83f5-c25c89e19047",
+        "diamond": "fb352537-62bc-453f-a2f9-b1ac82a0434b"
+      }
+    ]
+  },
+  {
+    "id": "23508555-5c2d-4d64-a15c-c1f45126e498",
+    "name": "League of Legends",
+    "ranks": [
+      {
+        "bronze": "c2557c4b-6545-453d-876f-7ce8ec65f674",
+        "silver": "32ec41c8-8452-43c5-aefe-44174e95abdd",
+        "gold": "a186f917-e0b7-407b-a44e-59050afe5ee6",
+        "platinum": "639107f5-2737-4c2c-83f5-c25c89e19047",
+        "diamond": "fb352537-62bc-453f-a2f9-b1ac82a0434b"
+      }
+    ]
+  },
+  {
+    "id": "e20e1274-1251-4fea-91c4-f698befb1af7",
+    "name": "Counter-Strike: Global Offensive",
+    "ranks": [
+      {
+        "bronze": "c2557c4b-6545-453d-876f-7ce8ec65f674",
+        "silver": "32ec41c8-8452-43c5-aefe-44174e95abdd",
+        "gold": "a186f917-e0b7-407b-a44e-59050afe5ee6",
+        "platinum": "639107f5-2737-4c2c-83f5-c25c89e19047",
+        "diamond": "fb352537-62bc-453f-a2f9-b1ac82a0434b"
+      }
+    ]
+  },
+  {
+    "id": "478a9320-e96a-4fbd-918b-511105d5f3bb",
+    "name": "Minecraft",
+    "ranks": []
+  },
+  {
+    "id": "a509e119-3735-4d6f-99d2-edb7eab8802d",
+    "name": "Overwatch",
+    "ranks": [
+      {
+        "bronze": "c2557c4b-6545-453d-876f-7ce8ec65f674",
+        "silver": "32ec41c8-8452-43c5-aefe-44174e95abdd",
+        "gold": "a186f917-e0b7-407b-a44e-59050afe5ee6",
+        "platinum": "639107f5-2737-4c2c-83f5-c25c89e19047",
+        "diamond": "fb352537-62bc-453f-a2f9-b1ac82a0434b"
+      }
+    ]
+  },
+  {
+    "id": "d6f0e3c8-f9ef-48ec-9653-4b0307c60fd7",
+    "name": "Rainbow Six Siege",
+    "ranks": [
+      {
+        "bronze": "c2557c4b-6545-453d-876f-7ce8ec65f674",
+        "silver": "32ec41c8-8452-43c5-aefe-44174e95abdd",
+        "gold": "a186f917-e0b7-407b-a44e-59050afe5ee6",
+        "platinum": "639107f5-2737-4c2c-83f5-c25c89e19047",
+        "diamond": "fb352537-62bc-453f-a2f9-b1ac82a0434b"
+      }
+    ]
+  },
+  {
+    "id": "e0edc2c7-f964-4a15-9090-ca81844c93db",
+    "name": "PlayerUnknown's Battlegrounds",
+    "ranks": [
+      {
+        "bronze": "c2557c4b-6545-453d-876f-7ce8ec65f674",
+        "silver": "32ec41c8-8452-43c5-aefe-44174e95abdd",
+        "gold": "a186f917-e0b7-407b-a44e-59050afe5ee6",
+        "platinum": "639107f5-2737-4c2c-83f5-c25c89e19047",
+        "diamond": "fb352537-62bc-453f-a2f9-b1ac82a0434b"
+      }
+    ]
+  },
+  {
+    "id": "8d01a414-4e39-429b-9181-bf76e40606d1",
+    "name": "Valorant",
+    "ranks": [
+      {
+        "bronze": "c2557c4b-6545-453d-876f-7ce8ec65f674",
+        "silver": "32ec41c8-8452-43c5-aefe-44174e95abdd",
+        "gold": "a186f917-e0b7-407b-a44e-59050afe5ee6",
+        "platinum": "639107f5-2737-4c2c-83f5-c25c89e19047",
+        "diamond": "fb352537-62bc-453f-a2f9-b1ac82a0434b"
+      }
+    ]
+  }
+]

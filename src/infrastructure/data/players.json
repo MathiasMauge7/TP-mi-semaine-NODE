@@ -1,243 +1,322 @@
 [
-    {
-        "id": "1",
-        "pseudo": "ShadowSlayer92",
-        "game": "Fortnite",
-        "rang": "Platinum"
-    },
-    {
-        "id": "2",
-        "pseudo": "CyberNinja21",
-        "game": "Call of Duty: Warzone",
-        "rang": "Gold"
-    },
-    {
-        "id": "3",
-        "pseudo": "PhoenixGamer",
-        "game": "Apex Legends",
-        "rang": "Diamond"
-    },
-    {
-        "id": "4",
-        "pseudo": "EternalMage",
-        "game": "League of Legends",
-        "rang": "Gold"
-    },
-    {
-        "id": "5",
-        "pseudo": "SteelAssassin",
-        "game": "Counter-Strike: Global Offensive",
-        "rang": "Diamond"
-    },
-    {
-        "id": "6",
-        "pseudo": "FireDragon99",
-        "game": "Minecraft",
-        "rang": "Bronze"
-    },
-    {
-        "id": "7",
-        "pseudo": "IceQueen77",
-        "game": "Overwatch",
-        "rang": "Silver"
-    },
-    {
-        "id": "8",
-        "pseudo": "ThunderBolt88",
-        "game": "Rainbow Six Siege",
-        "rang": "Platinum"
-    },
-    {
-        "id": "9",
-        "pseudo": "LoneWolf",
-        "game": "PlayerUnknown's Battlegrounds",
-        "rang": "Gold"
-    },
-    {
-        "id": "10",
-        "pseudo": "NightHawk",
-        "game": "Valorant",
-        "rang": "Diamond"
-    },
-    {
-        "id": "11",
-        "pseudo": "DeathDealer",
-        "game": "Fortnite",
-        "rang": "Silver"
-    },
-    {
-        "id": "12",
-        "pseudo": "Frostbite",
-        "game": "Call of Duty: Warzone",
-        "rang": "Bronze"
-    },
-    {
-        "id": "13",
-        "pseudo": "BlackWidow",
-        "game": "Apex Legends",
-        "rang": "Platinum"
-    },
-    {
-        "id": "14",
-        "pseudo": "MagicKnight",
-        "game": "League of Legends",
-        "rang": "Silver"
-    },
-    {
-        "id": "15",
-        "pseudo": "SniperElite",
-        "game": "Counter-Strike: Global Offensive",
-        "rang": "Gold"
-    },
-    {
-        "id": "16",
-        "pseudo": "DragonSlayer",
-        "game": "Minecraft",
-        "rang": "Bronze"
-    },
-    {
-        "id": "17",
-        "pseudo": "AngelWings",
-        "game": "Overwatch",
-        "rang": "Platinum"
-    },
-    {
-        "id": "18",
-        "pseudo": "SilentAssassin",
-        "game": "Rainbow Six Siege",
-        "rang": "Diamond"
-    },
-    {
-        "id": "19",
-        "pseudo": "ShadowStalker",
-        "game": "PlayerUnknown's Battlegrounds",
-        "rang": "Silver"
-    },
-    {
-        "id": "20",
-        "pseudo": "Nightshade",
-        "game": "Valorant",
-        "rang": "Platinum"
-    },
-    {
-        "id": "21",
-        "pseudo": "GhostReaper",
-        "game": "Fortnite",
-        "rang": "Gold"
-    },
-    {
-        "id": "22",
-        "pseudo": "StormChaser",
-        "game": "Call of Duty: Warzone",
-        "rang": "Silver"
-    },
-    {
-        "id": "23",
-        "pseudo": "DragonHeart",
-        "game": "Apex Legends",
-        "rang": "Bronze"
-    },
-    {
-        "id": "24",
-        "pseudo": "BlazeFire",
-        "game": "League of Legends",
-        "rang": "Gold"
-    },
-    {
-        "id": "25",
-        "pseudo": "IceFury",
-        "game": "Counter-Strike: Global Offensive",
-        "rang": "Diamond"
-    },
-    {
-        "id": "26",
-        "pseudo": "RogueAgent",
-        "game": "Minecraft",
-        "rang": "Bronze"
-    },
-    {
-        "id": "27",
-        "pseudo": "ShadowDancer",
-        "game": "Overwatch",
-        "rang": "Silver"
-    },
-    {
-        "id": "28",
-        "pseudo": "ThunderStorm",
-        "game": "Rainbow Six Siege",
-        "rang": "Platinum"
-    },
-    {
-        "id": "29",
-        "pseudo": "VoidWalker",
-        "game": "PlayerUnknown's Battlegrounds",
-        "rang": "Gold"
-    },
-    {
-        "id": "30",
-        "pseudo": "GoldenBullet",
-        "game": "Valorant",
-        "rang": "Diamond"
-    },
-    {
-        "id": "31",
-        "pseudo": "SavageBeast",
-        "game": "Fortnite",
-        "rang": "Silver"
-    },
-    {
-        "id": "32",
-        "pseudo": "SwiftArrow",
-        "game": "Call of Duty: Warzone",
-        "rang": "Gold"
-    },
-    {
-        "id": "33",
-        "pseudo": "FireBlade",
-        "game": "Apex Legends",
-        "rang": "Platinum"
-    },
-    {
-        "id": "34",
-        "pseudo": "DoomBringer",
-        "game": "League of Legends",
-        "rang": "Silver"
-    },
-    {
-        "id": "35",
-        "pseudo": "NightWalker",
-        "game": "Counter-Strike: Global Offensive",
-        "rang": "Gold"
-    },
-    {
-        "id": "36",
-        "pseudo": "StormBreaker",
-        "game": "Minecraft",
-        "rang": "Diamond"
-    },
-    {
-        "id": "37",
-        "pseudo": "SkyBlaze",
-        "game": "Overwatch",
-        "rang": "Bronze"
-    },
-    {
-        "id": "38",
-        "pseudo": "GhostReaper",
-        "game": "Rainbow Six Siege",
-        "rang": "Silver"
-    },
-    {
-        "id": "39",
-        "pseudo": "DarknessRuler",
-        "game": "PlayerUnknown's Battlegrounds",
-        "rang": "Gold"
-    },
-    {
-        "id": "40",
-        "pseudo": "Nightmare",
-        "game": "Valorant",
-        "rang": "Platinum"
-    }
+  {
+    "id": "1",
+    "pseudo": "ShadowSlayer92",
+    "password": "Sg7Xb9eY4d",
+    "gameId": "efb29504-c951-4a12-83d4-355caf00e40f",
+    "game": "Fortnite",
+    "rankId": "639107f5-2737-4c2c-83f5-c25c89e19047"
+  },
+  {
+    "id": "2",
+    "pseudo": "CyberNinja21",
+    "password": "Jc3Fv8tN9q",
+    "gameId": "62b9a8f0-e6a6-46d3-b413-1eda9ee2c7c6",
+    "game": "Call of Duty: Warzone",
+    "rankId": "a186f917-e0b7-407b-a44e-59050afe5ee6"
+  },
+  {
+    "id": "3",
+    "pseudo": "PhoenixGamer",
+    "password": "Mw4pJx8dZk",
+    "gameId": "147608ba-c850-4a99-9135-0d5d7b112366",
+    "game": "Apex Legends",
+    "rankId": "fb352537-62bc-453f-a2f9-b1ac82a0434b"
+  },
+  {
+    "id": "4",
+    "pseudo": "EternalMage",
+    "password": "Nr5tKj3w8b",
+    "gameId": "23508555-5c2d-4d64-a15c-c1f45126e498",
+    "game": "League of Legends",
+    "rankId": "a186f917-e0b7-407b-a44e-59050afe5ee6"
+  },
+  {
+    "id": "5",
+    "pseudo": "SteelAssassin",
+    "password": "Hw5tRv8fNq",
+    "gameId": "e20e1274-1251-4fea-91c4-f698befb1af7",
+    "game": "Counter-Strike: Global Offensive",
+    "rankId": "fb352537-62bc-453f-a2f9-b1ac82a0434b"
+  },
+  {
+    "id": "6",
+    "pseudo": "FireDragon99",
+    "password": "Ls2fGt3sVh",
+    "gameId": "478a9320-e96a-4fbd-918b-511105d5f3bb",
+    "game": "Minecraft",
+    "rankId": ""
+  },
+  {
+    "id": "7",
+    "pseudo": "IceQueen77",
+    "password": "Tq9wJk4pYf",
+    "gameId": "a509e119-3735-4d6f-99d2-edb7eab8802d",
+    "game": "Overwatch",
+    "rankId": "32ec41c8-8452-43c5-aefe-44174e95abdd"
+  },
+  {
+    "id": "8",
+    "pseudo": "ThunderBolt88",
+    "password": "Rk3pVb6sJz",
+    "gameId": "d6f0e3c8-f9ef-48ec-9653-4b0307c60fd7",
+    "game": "Rainbow Six Siege",
+    "rankId": "639107f5-2737-4c2c-83f5-c25c89e19047"
+  },
+  {
+    "id": "9",
+    "pseudo": "LoneWolf",
+    "password": "DbKpGj3sNz",
+    "gameId": "e0edc2c7-f964-4a15-9090-ca81844c93db",
+    "game": "PlayerUnknown's Battlegrounds",
+    "rankId": "a186f917-e0b7-407b-a44e-59050afe5ee6"
+  },
+  {
+    "id": "10",
+    "pseudo": "NightHawk",
+    "password": "Hd2rBt9kWq",
+    "gameId": "8d01a414-4e39-429b-9181-bf76e40606d1",
+    "game": "Valorant",
+    "rankId": "fb352537-62bc-453f-a2f9-b1ac82a0434b"
+  },
+  {
+    "id": "11",
+    "pseudo": "DeathDealer",
+    "password": "Zd2xRc5vKj",
+    "gameId": "efb29504-c951-4a12-83d4-355caf00e40f",
+    "game": "Fortnite",
+    "rankId": "32ec41c8-8452-43c5-aefe-44174e95abdd"
+  },
+  {
+    "id": "12",
+    "pseudo": "Frostbite",
+    "password": "Er5vFk3sJq",
+    "gameId": "62b9a8f0-e6a6-46d3-b413-1eda9ee2c7c6",
+    "game": "Call of Duty: Warzone",
+    "rankId": "c2557c4b-6545-453d-876f-7ce8ec65f674"
+  },
+  {
+    "id": "13",
+    "pseudo": "BlackWidow",
+    "password": "Bw4dZk9xNp",
+    "gameId": "147608ba-c850-4a99-9135-0d5d7b112366",
+    "game": "Apex Legends",
+    "rankId": "639107f5-2737-4c2c-83f5-c25c89e19047"
+  },
+  {
+    "id": "14",
+    "pseudo": "MagicKnight",
+    "password": "Ms4Jz8wKbN",
+    "gameId": "23508555-5c2d-4d64-a15c-c1f45126e498",
+    "game": "League of Legends",
+    "rankId": "32ec41c8-8452-43c5-aefe-44174e95abdd"
+  },
+  {
+    "id": "15",
+    "pseudo": "SniperElite",
+    "password": "Pd2xQb9cKj",
+    "gameId": "e20e1274-1251-4fea-91c4-f698befb1af7",
+    "game": "Counter-Strike: Global Offensive",
+    "rankId": "a186f917-e0b7-407b-a44e-59050afe5ee6"
+  },
+  {
+    "id": "16",
+    "pseudo": "DragonSlayer",
+    "password": "Lw6fTs3sVh",
+    "gameId": "478a9320-e96a-4fbd-918b-511105d5f3bb",
+    "game": "Minecraft",
+    "rankId": ""
+  },
+  {
+    "id": "17",
+    "pseudo": "AngelWings",
+    "password": "Sq9wJk4pYf",
+    "gameId": "a509e119-3735-4d6f-99d2-edb7eab8802d",
+    "game": "Overwatch",
+    "rankId": "639107f5-2737-4c2c-83f5-c25c89e19047"
+  },
+  {
+    "id": "18",
+    "pseudo": "SilentAssassin",
+    "password": "Bz4sJk8wNp",
+    "gameId": "d6f0e3c8-f9ef-48ec-9653-4b0307c60fd7",
+    "game": "Rainbow Six Siege",
+    "rankId": "fb352537-62bc-453f-a2f9-b1ac82a0434b"
+  },
+  {
+    "id": "19",
+    "pseudo": "ShadowStalker",
+    "password": "Nz6tGj3sVh",
+    "gameId": "e0edc2c7-f964-4a15-9090-ca81844c93db",
+    "game": "PlayerUnknown's Battlegrounds",
+    "rankId": "32ec41c8-8452-43c5-aefe-44174e95abdd"
+  },
+  {
+    "id": "20",
+    "pseudo": "Nightshade",
+    "password": "Hq2wBt9kWv",
+    "gameId": "8d01a414-4e39-429b-9181-bf76e40606d1",
+    "game": "Valorant",
+    "rankId": "639107f5-2737-4c2c-83f5-c25c89e19047"
+  },
+  {
+    "id": "21",
+    "pseudo": "GhostReaper",
+    "password": "Zg7Xb9eY4d",
+    "gameId": "efb29504-c951-4a12-83d4-355caf00e40f",
+    "game": "Fortnite",
+    "rankId": "a186f917-e0b7-407b-a44e-59050afe5ee6"
+  },
+  {
+    "id": "22",
+    "pseudo": "StormChaser",
+    "password": "Jq3Fv8tN9w",
+    "gameId": "62b9a8f0-e6a6-46d3-b413-1eda9ee2c7c6",
+    "game": "Call of Duty: Warzone",
+    "rankId": "32ec41c8-8452-43c5-aefe-44174e95abdd"
+  },
+  {
+    "id": "23",
+    "pseudo": "DragonHeart",
+    "password": "Mk7Xb9eY4d",
+    "gameId": "147608ba-c850-4a99-9135-0d5d7b112366",
+    "game": "Apex Legends",
+    "rankId": "c2557c4b-6545-453d-876f-7ce8ec65f674"
+  },
+  {
+    "id": "24",
+    "pseudo": "BlazeFire",
+    "password": "Nr5tJk3sVh",
+    "gameId": "23508555-5c2d-4d64-a15c-c1f45126e498",
+    "game": "League of Legends",
+    "rankId": "a186f917-e0b7-407b-a44e-59050afe5ee6"
+  },
+  {
+    "id": "25",
+    "pseudo": "IceFury",
+    "password": "Hw5tQb8cKj",
+    "gameId": "e20e1274-1251-4fea-91c4-f698befb1af7",
+    "game": "Counter-Strike: Global Offensive",
+    "rankId": "fb352537-62bc-453f-a2f9-b1ac82a0434b"
+  },
+  {
+    "id": "26",
+    "pseudo": "RogueAgent",
+    "password": "Ls2xWb3sVh",
+    "gameId": "478a9320-e96a-4fbd-918b-511105d5f3bb",
+    "game": "Minecraft",
+    "rankId": ""
+  },
+  {
+    "id": "27",
+    "pseudo": "ShadowDancer",
+    "password": "Tg9wJk4pYs",
+    "gameId": "a509e119-3735-4d6f-99d2-edb7eab8802d",
+    "game": "Overwatch",
+    "rankId": "32ec41c8-8452-43c5-aefe-44174e95abdd"
+  },
+  {
+    "id": "28",
+    "pseudo": "ThunderStorm",
+    "password": "Rk7bJz9sVh",
+    "gameId": "d6f0e3c8-f9ef-48ec-9653-4b0307c60fd7",
+    "game": "Rainbow Six Siege",
+    "rankId": "639107f5-2737-4c2c-83f5-c25c89e19047"
+  },
+  {
+    "id": "29",
+    "pseudo": "VoidWalker",
+    "password": "Dp2sGj3xNz",
+    "gameId": "e0edc2c7-f964-4a15-9090-ca81844c93db",
+    "game": "PlayerUnknown's Battlegrounds",
+    "rankId": "a186f917-e0b7-407b-a44e-59050afe5ee6"
+  },
+  {
+    "id": "30",
+    "pseudo": "GoldenBullet",
+    "password": "Hj2wBk9tWq",
+    "gameId": "8d01a414-4e39-429b-9181-bf76e40606d1",
+    "game": "Valorant",
+    "rankId": "fb352537-62bc-453f-a2f9-b1ac82a0434b"
+  },
+  {
+    "id": "31",
+    "pseudo": "SavageBeast",
+    "password": "Sb7Xt9eK4d",
+    "gameId": "efb29504-c951-4a12-83d4-355caf00e40f",
+    "game": "Fortnite",
+    "rankId": "32ec41c8-8452-43c5-aefe-44174e95abdd"
+  },
+  {
+    "id": "32",
+    "pseudo": "SwiftArrow",
+    "password": "Zq3Fb8wN9c",
+    "gameId": "62b9a8f0-e6a6-46d3-b413-1eda9ee2c7c6",
+    "game": "Call of Duty: Warzone",
+    "rankId": "a186f917-e0b7-407b-a44e-59050afe5ee6"
+  },
+  {
+    "id": "33",
+    "pseudo": "FireBlade",
+    "password": "Fb4dZk9xNp",
+    "gameId": "147608ba-c850-4a99-9135-0d5d7b112366",
+    "game": "Apex Legends",
+    "rankId": "639107f5-2737-4c2c-83f5-c25c89e19047"
+  },
+  {
+    "id": "34",
+    "pseudo": "DoomBringer",
+    "password": "Dj9xZk4pYf",
+    "gameId": "23508555-5c2d-4d64-a15c-c1f45126e498",
+    "game": "League of Legends",
+    "rankId": "32ec41c8-8452-43c5-aefe-44174e95abdd"
+  },
+  {
+    "id": "35",
+    "pseudo": "NightWalker",
+    "password": "Nw6xJb3sVh",
+    "gameId": "e20e1274-1251-4fea-91c4-f698befb1af7",
+    "game": "Counter-Strike: Global Offensive",
+    "rankId": "a186f917-e0b7-407b-a44e-59050afe5ee6"
+  },
+  {
+    "id": "36",
+    "pseudo": "StormBreaker",
+    "password": "Bs4tGk3sVh",
+    "gameId": "478a9320-e96a-4fbd-918b-511105d5f3bb",
+    "game": "Minecraft",
+    "rankId": ""
+  },
+  {
+    "id": "37",
+    "pseudo": "SkyBlaze",
+    "password": "Ss9wJk4pYf",
+    "gameId": "a509e119-3735-4d6f-99d2-edb7eab8802d",
+    "game": "Overwatch",
+    "rankId": "c2557c4b-6545-453d-876f-7ce8ec65f674"
+  },
+  {
+    "id": "38",
+    "pseudo": "GhostReaper",
+    "password": "Gq3Fk9sVhWz",
+    "gameId": "d6f0e3c8-f9ef-48ec-9653-4b0307c60fd7",
+    "game": "Rainbow Six Siege",
+    "rankId": "32ec41c8-8452-43c5-aefe-44174e95abdd"
+  },
+  {
+    "id": "39",
+    "pseudo": "DarknessRuler",
+    "password": "Dl6fTs3vJh",
+    "gameId": "e0edc2c7-f964-4a15-9090-ca81844c93db",
+    "game": "PlayerUnknown's Battlegrounds",
+    "rankId": "a186f917-e0b7-407b-a44e-59050afe5ee6"
+  },
+  {
+    "id": "40",
+    "pseudo": "Nightmare",
+    "password": "Nt4kVb9cJh",
+    "gameId": "8d01a414-4e39-429b-9181-bf76e40606d1",
+    "game": "Valorant",
+    "rankId": "639107f5-2737-4c2c-83f5-c25c89e19047"
+  }
 ]
-       

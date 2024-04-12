@@ -1,10 +1,16 @@
 import express from "express";
-import { getAllPlayers, getPlayerByPseudo, getPlayersByGame } from "../controllers/PlayerController";
+import {
+  getAllPlayers,
+  getPlayerByPseudo,
+  getPlayerByGame,
+  getAllRanks,
+} from "../controllers/PlayerController";
 
-const router = express.Router()
+const router = express.Router();
 
-router.get('/', getAllPlayers);
-router.get('/:pseudo', getPlayerByPseudo);
-router.get('/games/:game', getPlayersByGame);
+router.get("/", getAllPlayers);
+router.get("/ranks", getAllRanks);
+router.get("/:pseudo", getPlayerByPseudo);
+router.get("/games/:game", getPlayerByGame);
 
-export default router
+export default router;
